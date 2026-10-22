@@ -42,3 +42,4 @@ next-env.d.ts
 
 # BSI operational data
 /data/import/
+/supabase/remote_schema.sql
